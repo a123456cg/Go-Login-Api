@@ -1,0 +1,27 @@
+# Go build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Vendor folder
+/vendor/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Mac OS files
+.DS_Store
+
+# Others
+coverage.out
